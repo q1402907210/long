@@ -1,0 +1,38 @@
+User Privacy Protection Guidelines
+Game Privacy Protection Statement
+This guideline is formulated by the developers of the game Monster Breakout (hereinafter referred to as the "Developer") for the processing of your personal information.
+Information Processed by the Developer
+In accordance with legal provisions, the Developer only processes information necessary to realize the game's functions.
+• For registering and logging into the game, the Developer collects your user information (nickname, avatar, gender, and region).
+• The Developer collects your mobile phone number to log into the game and create game account information.
+• The Developer collects your ID card number for legal real-name verification requirements, in order to provide you with game real-name authentication services.
+Third-Party Plugin/SDK Information
+To realize specific functions, the Developer may integrate plugins/SDKs provided by third parties. For the personal information processing rules of third-party plugins/SDKs, please refer to their officially published instructions. The third-party plugin/SDK information integrated by Monster Breakout is as follows:
+Third-Party Plugin Information
+• Plugin Name: SUD
+• Plugin Provider Name: SUD
+• For registering and logging into the game, the Developer collects your user information (nickname, avatar, gender, and region).
+• The Developer collects your mobile phone number to log into the game and create game account information.
+• The Developer collects your ID card number for legal real-name verification requirements, in order to provide you with game real-name authentication services.
+Third-Party SDK Information
+• SDK Name: SUD
+• SDK Provider Name: SUD
+• For registering and logging into the game, the Developer collects your user information (nickname, avatar, gender, and region).
+• The Developer collects your mobile phone number to log into the game and create game account information.
+• The Developer collects your ID card number for legal real-name verification requirements, in order to provide you with game real-name authentication services.
+Information Storage and Retention
+The Developer undertakes that, unless otherwise provided by laws and regulations, the retention period of your information shall be the shortest time necessary to achieve the processing purpose.
+Regarding Monster Breakout, you may withdraw your authorization to the Developer via the following path: Game Homepage Top Right "..." — "Settings" — Click on Specific Information — Click "Disallow".
+Regarding your personal information, you may contact the Developer via the following method to exercise your statutory rights such as access, copy, correction, and deletion.
+Email: mailto:q1402907210@163.com
+The Developer will store your information in mainland China. (To be filled out only for games operated by overseas entities)
+Rules for the Use of Information
+The Developer will use the collected information only within the purposes expressly stated in this guideline.
+If the Developer uses your information beyond the purposes or reasonable scope of this guideline, the Developer must inform you and obtain your explicit consent again in the manner of xxx before changing the purpose or scope of use.
+External Provision of Information
+The Developer undertakes not to proactively share or transfer your information to any third party. If sharing or transfer is indeed necessary, the Developer shall directly obtain or confirm that the third party has obtained your separate consent.
+The Developer undertakes not to publicly disclose your information. If public disclosure is necessary, the Developer shall inform you of the purpose of disclosure, the types of information disclosed, and the information that may be involved, and obtain your separate consent.
+If you believe that the Developer has not complied with the above agreements, or if you have other complaints, suggestions, or issues related to the protection of minors' personal information, you may contact the Developer via the following method.
+Email: mailto:q1402907210@163.com
+Update Date: 2026-05-23
+Effective Date: 2026-05-23
