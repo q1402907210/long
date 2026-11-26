@@ -1,0 +1,34 @@
+User Privacy Protection Guidelines
+Game Privacy Protection Statement
+This guideline is formulated by the developers of Weihai Echoes (hereinafter referred to as the "Developer") for the processing of your personal information.
+Information Processed by the Developer
+In accordance with legal regulations, the Developer only processes information necessary to realize the functions of the game.
+Registration and Login: To register for and log in to the game, the Developer collects your user information (nickname, avatar, gender, and region).
+Mobile Number: The Developer collects your mobile phone number for logging in to the game and creating game account information.
+ID Number: The Developer collects your ID card number for legal real-name verification requirements and to provide you with game real-name authentication services.
+Third-Party Plugin/SDK Information
+To implement specific functions, the Developer may integrate plugins/SDKs provided by third parties. For the personal information processing rules of third-party plugins/SDKs, please refer to their official public statements. The third-party plugin/SDK information integrated by Weihai Echoes is as follows:
+Third-Party Plugin Information
+Plugin Name: SUD
+Provider Name: SUD
+Data Collection: To register for and log in to the game, the Developer collects your user information (nickname, avatar, gender, region); collects your mobile phone number for logging in and creating game account information; and collects your ID card number for legal real-name verification requirements and to provide you with game real-name authentication services.
+Third-Party SDK Information
+SDK Name: SUD
+Provider Name: SUD
+Data Collection: To register for and log in to the game, the Developer collects your user information (nickname, avatar, gender, region); collects your mobile phone number for logging in and creating game account information; and collects your ID card number for legal real-name verification requirements and to provide you with game real-name authentication services.
+Information Storage and Retention
+The Developer commits that, unless otherwise provided by laws and regulations, the retention period for your information shall be the shortest time necessary to achieve the processing purpose.
+Regarding Weihai Echoes, you may withdraw your authorization to the Developer via the following path: Game Home Page > Top Right Corner "..." > "Settings" > Click on Specific Information > Click "Disallow".
+Regarding your personal information, you may contact the Developer in the following manner to exercise your legal rights, such as access, copy, correction, and deletion.
+Email: mailto:q1402907210@163.com
+The Developer will store your information in Mainland China. (Note: This only needs to be filled in for games operated by overseas entities)
+Rules for Information Use
+The Developer will use the collected information only within the purposes expressly stated in this guideline.
+If the Developer uses your information beyond the purposes or reasonable scope of this guideline, the Developer must inform you and obtain your explicit consent again via [method] before changing the purpose or scope of use.
+External Provision of Information
+The Developer commits not to actively share or transfer your information to any third party. If sharing or transfer is strictly necessary, the Developer shall directly obtain or confirm that the third party has obtained your separate consent.
+The Developer commits not to publicly disclose your information. If public disclosure is necessary, the Developer shall inform you of the purpose of disclosure, the types of information disclosed, and any information that may be involved, and shall obtain your separate consent.
+If you believe that the Developer has not complied with the above agreements, or if you have other complaints, suggestions, or issues related to the protection of minors' personal information, please contact the Developer via the following method:
+Email: mailto:q1402907210@163.com
+Update Date: 2026-05-23
+Effective Date: 2026-05-23
